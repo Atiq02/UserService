@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [pmis_dev]
+    WITH PASSWORD = N'<|n=bw3ld|d5czum|gJkpfqqmsFT7_&#$!~<{hgW9nGjvkHM', SID = 0x72CB827FE438FC4E8FE6B39D5785D059, DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
+
